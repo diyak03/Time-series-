@@ -10,3 +10,4 @@ This project worked mainly with the closing prices of Synchronoss technologies u
 ##### data used: 
 the csv file labelled "SNCR.csv"
 ##### Project name: 
+time series regression - stock analysis 

@@ -11,3 +11,12 @@ This project worked mainly with the closing prices of Synchronoss technologies u
 the csv file labelled "SNCR.csv"
 ##### Project name: 
 time series regression - stock analysis 
+
+#### Project 2 -- Time series analysis on twitter sentiment regarding the canadian navy  
+##### Purpose: 
+This is the second part to my twitter sentiment project (which is in my sentiment repository). This is part two of a three part project. In this section, the purpose was to analyze the sentiment of twitter users regarding the Canadian Navy through time to see if anything changed or if there was a pattern that could be accredited to temporal reasons. 
+
+##### data used: 
+
+##### Project name: 
+

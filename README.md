@@ -17,6 +17,8 @@ time series regression - stock analysis
 This is the second part to my twitter sentiment project (which is in my sentiment repository). This is part two of a three part project. In this section, the purpose was to analyze the sentiment of twitter users regarding the Canadian Navy through time to see if anything changed or if there was a pattern that could be accredited to temporal reasons. 
 
 ##### data used: 
+the excel file labelled "RCN(1).xlsx"
 
 ##### Project name: 
+time series - navy sentiment.ipynb
 
